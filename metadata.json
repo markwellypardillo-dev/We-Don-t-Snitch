@@ -1,0 +1,6 @@
+{
+  "name": "WDS CPM Community",
+  "description": "Community portal and attendance tracker for Car Parking Multiplayer (CPM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
